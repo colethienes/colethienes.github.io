@@ -18,12 +18,12 @@ avatar: https://media.licdn.com/dms/image/C4E03AQGSg9Isx6TTzw/profile-displaypho
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: colethienes@gmail.com
   facebook:
   flickr:
   github: colethienes/
-  instagram:
-  linkedin:
+  instagram: 
+  linkedin: https://www.linkedin.com/in/cole-thienes/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-153195812-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
