@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+## Welcome!
 
-### More Information
+My name is Cole Thienes, and I'm a developer who's been working on his own company, [Koursaros AI](https://koursaros-ai.github.io/). I recently graduated college where I studied Economics and Biology, so my recent experiences in AI/DevOps have been quite a turn of events!
 
-A place to include any other types of information that you'd like to include about yourself.
+Me and Jack Pertschuk have been open sourcing our recent projects, including [NBoost](https://github.com/koursaros-ai/nboost), a neural search boosting platform.
+
+I'm passionate about open source software, neurobiology, and financial markets. Feel free to reach out!
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[colethienes@gmail.com](mailto:colethienes@gmail.com)
